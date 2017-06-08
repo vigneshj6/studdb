@@ -1,0 +1,3 @@
+1) error in mdb003.pgm manually remove the line from unwanted data and breast tissue
+2) error in mdb005.pgm manually remove the line from unwanted data and breast tissue
+3) error in mdb007.pgm manually remove the line from unwanted data and breast tissue
